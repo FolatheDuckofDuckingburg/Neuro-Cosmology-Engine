@@ -1,6 +1,6 @@
 # 🌌 Neuro-Cosmology-Engine
 
-An open-source simulation engine exploring the intersection of **Quantum Mechanics**, **General Relativity**, and **Theoretical Neuroscience**. 
+An open-source simulation engine exploring the intersection of **Quantum Mechanics**, **General Relativity**, and **Computational Neuroscience**. 
 
 ## 🎬 Live Simulation Output
 <img width="720" height="720" alt="quantum_neuro_manifold.gif" src="https://github.com/user-attachments/assets/201bbe74-c856-4520-a1d1-ab474433231f" />
